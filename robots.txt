@@ -1,7 +1,7 @@
 User-agent:Yandex
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: https://ваш_сайт/sitemap.xml
+Sitemap: https://PressG.github.io/sitemap.xml
 User-agent:googlebot
 Disallow: /Admin
 Disallow: *?page=
